@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(31, 31, 42);
+text-align:center;
+}
+h1{
+    color:rgb(182, 172, 172);
+    font-size:3.6rem;
+    margin:auto;
+    font-family: 'Silkscreen', cursive;
+    margin-top:2%;
+    text-align:center;
+    text-shadow: 3px 1px black;
+}
+i{
+    width:5%;
+    color:rgb(114, 108, 108);
+}
+.startImg{
+    margin-top:2%;
+  color:white;
+  width:24%;
+}
